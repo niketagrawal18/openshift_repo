@@ -1,6 +1,5 @@
 <?php
-print "welcome to vimal web server for testing";
 
-print `ifconfig`;
+print "Line 1"
+  
 ?>
-</pre>
